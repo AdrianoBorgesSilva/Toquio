@@ -21,7 +21,6 @@ function trocarFoto2 (){
 function trocarFoto3 (){
     let ft = document.getElementById('secao1')
     ft.style.backgroundImage = "url('imagens/toquio1.jpg')";
-    ft.style.backgroundPosition = '-900px center'
 }
 
 function trocarFoto4 (){
