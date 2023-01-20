@@ -1,4 +1,4 @@
 # Toquio V1.0
 
-Feito para treinar a manipulação da árvore DOM, CSS e responsividade
-
+Projeto de estudo. <br>
+Uma página que mostra Tóquio, a maior metrópole do mundo, em fotos. 
