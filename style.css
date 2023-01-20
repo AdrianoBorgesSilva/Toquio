@@ -335,6 +335,56 @@ li {
     }
 }
 
+@media screen and (width: 768px) {
+    #fotos {
+        top: 40%;
+    }
+
+    #bolavermelha {
+        width: 400px;
+        height: 400px;
+    }
+
+    .foto {
+        width: 70px;
+        height: 70px;
+    }
+
+    #txtsec1 {
+        font-size: 2.4em;
+    }
+
+    #limparsec1 {
+        top: 88%;
+        left: 6%;
+        font-size: 1.3em;
+        padding: 15px;
+    }
+
+    #mostrarsec1 {
+        top: 88%;
+        left: 7%;
+        font-size: 1.3em;
+        padding: 15px;
+    }
+
+    #secao3 > p {
+        font-size: 3.5em;
+    }
+
+    #secao4 > p {
+        font-size: 1.7em;
+        width: 99.60%;
+    }
+    
+    .fotosfimp {
+        width: 99.60%;
+    }
+
+    .tn1, .tn2, .tn3, .tn4 {
+        background-size: 820px 1180px;
+    }
+}
 
 
 /*#grid-container {
