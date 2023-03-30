@@ -6,3 +6,6 @@ Projeto de estudo. - Study project. <br>
 
 Feito para testar funções básicas em JavaScript. - Made to test basic JavaScript functions.
 
+
+![printtokyo](https://user-images.githubusercontent.com/120127965/228961716-e5deefc4-7c06-4f0b-ab82-574026a1ed36.png)
+
