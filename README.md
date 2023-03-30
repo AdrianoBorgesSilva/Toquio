@@ -1,5 +1,5 @@
 # Toquio V1.0
 
-Projeto de estudo. <br>
-1° projeto inteiramente sozinho. <br>
-Uma página que mostra Tóquio, a maior metrópole do mundo, em fotos. 
+Projeto de estudo. - Study project. <br>
+1° projeto inteiramente sozinho. - 1st project made all by myself.<br>
+Feito para testar funções básicas em JavaScript. - Made to test basic JavaScript functions.
